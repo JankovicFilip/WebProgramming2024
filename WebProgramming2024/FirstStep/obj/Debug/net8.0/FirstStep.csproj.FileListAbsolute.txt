@@ -1,0 +1,15 @@
+D:\WebProgramming2024\WebProgramming2024\FirstStep\bin\Debug\net8.0\FirstStep.exe
+D:\WebProgramming2024\WebProgramming2024\FirstStep\bin\Debug\net8.0\FirstStep.deps.json
+D:\WebProgramming2024\WebProgramming2024\FirstStep\bin\Debug\net8.0\FirstStep.runtimeconfig.json
+D:\WebProgramming2024\WebProgramming2024\FirstStep\bin\Debug\net8.0\FirstStep.dll
+D:\WebProgramming2024\WebProgramming2024\FirstStep\bin\Debug\net8.0\FirstStep.pdb
+D:\WebProgramming2024\WebProgramming2024\FirstStep\obj\Debug\net8.0\FirstStep.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebProgramming2024\WebProgramming2024\FirstStep\obj\Debug\net8.0\FirstStep.AssemblyInfoInputs.cache
+D:\WebProgramming2024\WebProgramming2024\FirstStep\obj\Debug\net8.0\FirstStep.AssemblyInfo.cs
+D:\WebProgramming2024\WebProgramming2024\FirstStep\obj\Debug\net8.0\FirstStep.csproj.CoreCompileInputs.cache
+D:\WebProgramming2024\WebProgramming2024\FirstStep\obj\Debug\net8.0\FirstStep.sourcelink.json
+D:\WebProgramming2024\WebProgramming2024\FirstStep\obj\Debug\net8.0\FirstStep.dll
+D:\WebProgramming2024\WebProgramming2024\FirstStep\obj\Debug\net8.0\refint\FirstStep.dll
+D:\WebProgramming2024\WebProgramming2024\FirstStep\obj\Debug\net8.0\FirstStep.pdb
+D:\WebProgramming2024\WebProgramming2024\FirstStep\obj\Debug\net8.0\FirstStep.genruntimeconfig.cache
+D:\WebProgramming2024\WebProgramming2024\FirstStep\obj\Debug\net8.0\ref\FirstStep.dll
